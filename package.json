@@ -1,0 +1,29 @@
+{
+  "name": "Qweary",
+  "description": "Complex Boolean Query Constructor for Mongoose",
+  "version": "0.0.1",
+  "author": {
+    "name": "Trey Griffith",
+    "email": "trey.griffith@gmail.com"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "boolean",
+    "query"
+  ],
+  "dependencies": {
+    "mongoose": "3.x"
+  },
+  "devDependencies": {
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/treygriffith/qweary.git"
+  },
+  "homepage": "https://github.com/treygriffith/qweary"
+}
