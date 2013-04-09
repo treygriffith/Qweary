@@ -1,7 +1,7 @@
 {
   "name": "qweary",
   "description": "Complex Logical Query Constructor for Mongoose",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "Trey Griffith",
     "email": "trey.griffith@gmail.com"
