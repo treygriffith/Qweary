@@ -14,6 +14,10 @@ $ git clone git://github.com/treygriffith/Qweary.git node_modules/qweary/
 
 Build a Query
 -------------
+Require the Qweary module, using your instance of Mongoose as the only parameter
+```javascript
+var Qweary = require('qweary')(mongoose);
+```
 To build a query, you create a new `Qweary` object:
 ``` javascript
 var query = new Qweary();
